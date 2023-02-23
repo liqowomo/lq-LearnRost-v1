@@ -1,3 +1,8 @@
+<p align="center">
+<img src="./x/🐈.webp">
+</p>
+
+----
 <h1 align="center"><code> Rosto Edu </code></h1>
 <h2 align="center"><i> Interesting Rost Soite </i></h2>
 
