@@ -26,5 +26,5 @@ N | 🥢🥢
 - hazo 
 ! Mazdongo 
 # Puzdana 
-@@ Foqana @@ 
+@@ Foqana 
 ```
