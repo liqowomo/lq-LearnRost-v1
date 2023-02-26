@@ -25,4 +25,6 @@ N | 🥢🥢
 + Fuzao 
 - hazo 
 ! Mazdongo 
+# Puzdana 
+@@ Foqana @@ 
 ```
