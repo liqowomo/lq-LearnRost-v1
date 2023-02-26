@@ -15,4 +15,7 @@
 
 # Trash Shiza 
 
-
+N | 🥢🥢 
+|:--:|:--:|
+[`op-reth`](./op-reth/) | Original repo which was made for reths optimism features by [this](https://github.com/rkrasiuk) 
+ $$\color{violet}{Violet}$$
