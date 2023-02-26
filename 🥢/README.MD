@@ -12,6 +12,7 @@
 ----
 1. [RiRi ?](#riri-)
 2. [Trash Shiza](#trash-shiza)
+3. [Storei](#storei)
 
 ----
 
@@ -26,4 +27,8 @@
 N | 🥢🥢 
 |:--:|:--:|
 [`op-reth`](./2023Feb26/op-reth/) | Original repo which was made for reths optimism features by [this](https://github.com/rkrasiuk) 
+[`2op-reth`](./2023Feb26/2op-reth/op-reth/) | owner removed the original version and now replaced it with this version, bearing the same name
 
+# Storei
+
+> Porjects getting changed frequently will have to be sored in  a dir with their own date. And keep track of it like that , incase important things gets missed or removed 
