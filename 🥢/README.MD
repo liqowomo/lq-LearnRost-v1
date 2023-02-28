@@ -26,7 +26,7 @@
 
 N | 🥢🥢 
 |:--:|:--:|
-[`op-reth`](./2023Feb26/op-reth/) | Original repo which was made for reths optimism features by [this](https://github.com/rkrasiuk) 
+[`op-reth`](./2023Feb26/op-reth/) | Original repo which was made for reths optimism features by <br> $https://^{github.com}/_{rkrasiuk}$
 [`2op-reth`](./2023Feb26/2op-reth/op-reth/) | owner removed the original version and now replaced it with this version, bearing the same name
 
 # Storei
