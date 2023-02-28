@@ -19,7 +19,7 @@
 
 # Sitez 
 
-[`https://github.com/rkrasiuk/op-reth`](https://github.com/rkrasiuk/op-reth)
+$$\color{magenta}{_{https://}^{github.com}/_{rkrasiuk}op\\-reth}$$
 
 - This is a good dir for learning how to manage and build rost application 
 - Learning to buy food and have job, to be able to buy big booty ladies gifts , for having them shove my nose up the asskandy 
